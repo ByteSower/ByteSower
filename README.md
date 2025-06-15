@@ -1,46 +1,57 @@
-👾 ByteSower
-Meta AI Partner | Programming/Game Designer | AI Explorer
-“I just love math, science, AI's, and coding and how they can in tangent with humans uncover the secrets of reality!”
+ByteSower: 👾 ByteSower Meta AI Partner • Programming/Game Designer • AI Explorer
+
+> “I love math, science, AI, and coding — especially how they work in tandem with humanity to uncover the secrets of reality.”
 
 🚀 About Me
-Hi, I’m ByteSower – a passionate Meta AI Partner and Programming/Game Designer who thrives at the intersection of AI capabilities and game development. My journey is defined by curiosity: from building elemental battle games to exploring the depths of prompt engineering and pattern recognition, I strive to blend technology, creativity, and human ingenuity.
+Hi, I’m ByteSower—a passionate Meta AI Partner and game designer thriving at the crossroads of AI innovation and creative game development. My journey is fueled by curiosity—whether it’s building elemental battle games or delving into prompt engineering and pattern recognition. I fuse cutting-edge technology with artistic expression to push the boundaries of storytelling in interactive experiences.
 
 🧠 Tech Stack & Skills
-Languages/Frameworks:
+Languages & Frameworks:
+
 Python
+
 HTML5
+
 React
 
 Expertise:
 
 Prompt Engineering
+
 Pattern Recognition
+
 AI Technologies
+
 Game & Web Development
-🕹️ Favorite Projects
-RPS Showdown
-An elemental twist on the classic Rock, Paper, Scissors game.
-Game
 
-Flash Crawler
-A web-based dungeon crawler combining quick gameplay with strategic exploration.
-Web
+🕹️ Projects & Innovations
+QNCE – Quantum Narrative Convergence Engine: A cutting-edge narrative engine that leverages quantum-inspired concepts like superposition, collapse, and entanglement to generate adaptive, non-linear story paths. Ideal for narrative-driven RPGs, interactive novels, or experimental storytelling experiences. Live Demo
 
-Path of the Bros (In Progress)
-Anime-style, text-based web RPG – embark on an epic journey with style!
-RPG
+RPS Showdown: An elemental twist on the classic Rock, Paper, Scissors game. [Game]
+
+Flash Crawler: A web-based dungeon crawler combining quick gameplay with strategic exploration. [Web]
+
+Path of the Bros (In Progress): An anime-style, text-based web RPG—embark on an epic journey with style! [RPG]
 
 🌌 Interests
-Math | Science | Philosophy | Future Tech | Quantum Mechanics | Astrology
-Sci-fi | Video Games | Algorithms | Computer Science | Tinkering with AI
+Math | Science | Philosophy | Future Tech | Quantum Mechanics | Astrology Sci-fi | Video Games | Algorithms | Computer Science | Tinkering with AI
 
 🌐 Connect With Me
-X (Twitter)
-Instagram
-FB Group: QuantumSowers
-FB Page: ByteSower
+X (Twitter): [https://x.com/ByteSower]
+
+Instagram: [https://www.instagram.com/bytesower/]
+
+FB Group (QuantumSowers): [https://www.facebook.com/groups/quantumsowershq]
+
+FB Page (ByteSower)
+
 ChatGPT: @ByteSower
-YouTube: ByteSower
-TikTok: ByteSower
+
+YouTube: [https://www.youtube.com/@ByteSower]
+
+TikTok: [https://www.tiktok.com/@bytesower]
+
 Discord: TTVWildboyshan
+
 ⚡ Let’s push the boundaries of what’s possible—one algorithm at a time!
+
