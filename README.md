@@ -25,9 +25,9 @@ AI Technologies
 Game & Web Development
 
 🕹️ Projects & Innovations
-QNCE – Quantum Narrative Convergence Engine: A cutting-edge narrative engine that leverages quantum-inspired concepts like superposition, collapse, and entanglement to generate adaptive, non-linear story paths. Ideal for narrative-driven RPGs, interactive novels, or experimental storytelling experiences. Live Demo
+QNCE – Quantum Narrative Convergence Engine: A cutting-edge narrative engine that leverages quantum-inspired concepts like superposition, collapse, and entanglement to generate adaptive, non-linear story paths. Ideal for narrative-driven RPGs, interactive novels, or experimental storytelling experiences. Live Demo(https://bytesower.github.io/qnce-demo/)
 
-RPS Showdown: An elemental twist on the classic Rock, Paper, Scissors game. [Game]
+RPS Showdown: An elemental twist on the classic Rock, Paper, Scissors game. [Desktop]
 
 Flash Crawler: A web-based dungeon crawler combining quick gameplay with strategic exploration. [Web]
 
